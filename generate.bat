@@ -1,0 +1,1 @@
+phantomjs rasterize.coffee test.html test-phantom.pdf a4
